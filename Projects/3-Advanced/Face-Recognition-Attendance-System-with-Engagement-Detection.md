@@ -2,13 +2,9 @@
 
 **Tier:** 3-Advanced
 
-Attendance tracking in classrooms is time-consuming and prone to human error.
-Presenz automates this process using real-time face recognition, detecting not
-only who is present but also whether students are engaged — flagging behaviors
-like phone usage and sleeping with snapshot evidence.
+Attendance tracking in classrooms is time-consuming and prone to human error. This system automates this process using real-time face recognition, detecting not only who is present but also whether students are engaged — flagging behaviors like phone usage and sleeping with snapshot evidence.
 
-This project challenges the developer to combine computer vision, a real-time
-web interface, and session-based reporting into a single cohesive system.
+This project challenges the developer to combine computer vision, a real-time web interface, and session-based reporting into a single cohesive system.
 
 ## User Stories
 
