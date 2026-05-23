@@ -120,7 +120,6 @@ required to complete them.
 
 | Name                                                                          | Short Description                                                   | Tier       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
-| [Attedance Sys.](./Projects/3-Advanced/Face-Recognition-Attendance-System.md) | Face recognition attendance with engagement detection               | 3-Advanced |
 | [Battleship Bot](./Projects/3-Advanced/Battleship-Bot.md)                     | Create a Discord bot that plays Battleship                          | 3-Advanced |
 | [Battleship Game Engine](./Projects/3-Advanced/Battleship-Game-Engine.md)     | Create a callable engine to play the Battleship game                | 3-Advanced |
 | [Boole Bots Game](./Projects/3-Advanced/Boole-Bot-Game.md)                    | Battling Bots driven by Boolean algebra                             | 3-Advanced |
@@ -129,6 +128,7 @@ required to complete them.
 | [Chat App](./Projects/3-Advanced/Chat-App.md)                                 | Real-time chat interface                                            | 3-Advanced |
 | [Contribution Tracker App](./Projects/3-Advanced/Contribution-Tracker-App.md) | Track funds donated to charity                                      | 3-Advanced |
 | [Elevator](./Projects/3-Advanced/Elevator-App.md)                             | Elevator simulator                                                  | 3-Advanced |
+| [Face Recognition Attendance System](./Projects/3-Advanced/Face-Recognition-Attendance-System-with-Engagement-Detection.md) | Face recognition attendance with engagement detection               | 3-Advanced |
 | [Fast Food Simulator](./Projects/3-Advanced/FastFood-App.md)                  | Fast Food Restaurant Simulator                                      | 3-Advanced |
 | [Instagram Clone](./Projects/3-Advanced/Instagram-Clone-App.md)               | A clone of Facebook's Instagram app                                 | 3-Advanced |
 | [GitHub Timeline](./Projects/3-Advanced/GitHub-Timeline-App.md)               | Generate a timeline of a users GitHub Repos                         | 3-Advanced |
