@@ -1,4 +1,4 @@
-# Face Recognition Attendance System with Engagement Detection
+# Face Recognition Attendance System With Engagement Detection
 
 **Tier:** 3-Advanced
 
